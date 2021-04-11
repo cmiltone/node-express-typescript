@@ -1,0 +1,19 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "A template for node back-end developed using typescript",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmiltone/node-express-typescript.git"
+  },
+  "author": "castro <castromiltone@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmiltone/node-express-typescript/issues"
+  },
+  "homepage": "https://github.com/cmiltone/node-express-typescript#readme"
+}
