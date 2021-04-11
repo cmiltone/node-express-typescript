@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cmiltone/node-express-typescript/issues"
   },
-  "homepage": "https://github.com/cmiltone/node-express-typescript#readme"
+  "homepage": "https://github.com/cmiltone/node-express-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
