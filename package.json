@@ -4,6 +4,9 @@
   "description": "A template for node back-end developed using typescript",
   "main": "dist/app.js",
   "scripts": {
+    "build": "tsc",
+    "serve": "pm2 start ecosystem.config.js",
+    "stop": "pm2 delete ecosystem.config.js",
     "start": "nodemon .",
     "test": "jest"
   },
